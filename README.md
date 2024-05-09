@@ -1,14 +1,21 @@
 ### Hi there 👋
-### I am Harsh Agarwal 😁
-### Here I have a few things about me 🤓
+### I am Harsh Agarwal 😁 Here I have a few things about me 🤓
+
 <hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m currently studying as an IT and CS student
+- 🗼 I am a huge anime fan. (Need suggestions regarding some underrated anime. DM😉)
+- 😘 I’m love learning new technologies.
+- 🤔 I’m currently trying my hands on some ML/DL projects
+- 📫 How to reach me: Instagram: <a href="https://www.instagram.com/__harxh__.15/" style="font-style:none; color: #B1A2CA ">__harxh__.15</a><br> LinkedIn: <a href="www.linkedin.com/in/harsh-agarwal-199a5b250" style="font-style:none; color: #8BD3E6 ">Harsh Agarwal</a>
+
+<hr/>
+
+Skills 💪🏻
+- Java 💻
+- Python 🐍
+- Html 🩻
+- CSS 💄
+- JavaScript 🤓
+- Android 💻+🩻+💄
+- ML/DL 🤖
