@@ -1,10 +1,7 @@
 ### Hi there 👋
-### I am Harsh Agarwal 😉
-
-<!--
-**agarwalharsh2156/agarwalharsh2156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### I am Harsh Agarwal 😁
+### Here I have a few things about me 🤓
+<hr/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
