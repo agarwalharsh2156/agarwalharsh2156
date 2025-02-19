@@ -17,4 +17,3 @@ Skills 💪🏻
   <li>Deep Learning</li>
   <li>Data Science</li>
 </ul>
-<>
