@@ -13,7 +13,7 @@
 ---
 
 ### About Me
-* Pursuing an Integrated Master's of Computer Applications (CGPA: 8.8) and a Diploma in Deep Learning and Neural Network (CGPA: 8.00)[cite: 6].
+* I have completed my Post Graduation with Integrated Master's of Computer Applications (CGPA: 8.95) and a Diploma in Deep Learning and Neural Network (CGPA: 8.00).
 * Focused on building scalable backend systems, machine learning pipelines, and predictive models.
 
 ---
